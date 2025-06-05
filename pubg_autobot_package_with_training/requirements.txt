@@ -1,0 +1,2 @@
+# Install all required tools
+pip install opencv-python pyautogui pillow pynput torch torchvision torchaudio ultralytics plyer pystray
